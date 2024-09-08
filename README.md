@@ -13,4 +13,4 @@ Please check the Python [code](https://github.com/mhshehata/New_Product_Sales_Me
 
 
 ## Full Report, including Results and Recommendations
-()
+[Report](https://github.com/mhshehata/New_Product_Sales_Method_Analysis/blob/main/notebook.ipynb)
