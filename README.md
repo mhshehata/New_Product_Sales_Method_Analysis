@@ -10,3 +10,7 @@ Identifying the most effective sales method for new product launches in a rapidl
 
 ## Data Analysis
 Please check the Python [code](https://github.com/mhshehata/New_Product_Sales_Method_Analysis/blob/main/Products%20Sales%20Analysis.ipynb)
+
+
+## Full Report, including Results and Recommendations
+()
